@@ -1,6 +1,6 @@
 
 nome = 'Eler'
-proficao = 'putaria'
+proficao = 'cavalo'
 
 quemSou = 'meu nome é {}'.format(nome)
 gostos = 'Gosto de ganha din com {}'.format(proficao)
