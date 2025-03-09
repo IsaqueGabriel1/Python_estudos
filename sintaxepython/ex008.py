@@ -1,7 +1,7 @@
 carrinho = []
 resp = ""
 
-print("Seja vem vindo loga de produtos aleatórios!")
+print("Seja vem vindo loja de produtos aleatórios!")
 
 def mostraLista():
     print("-----------------")
