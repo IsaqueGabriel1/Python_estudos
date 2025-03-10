@@ -49,7 +49,7 @@ def mostraOpcoes():
     print("Digite 2 para adicionar")
     print("Digite 3 para remover") 
     print("Digite 4 para remover")
-    print("Digite 5 para remover")
+    print("Digite 5 para modificar")
     print("Ou digite qualquer coisa para sair!")
 
 def modificarValor():
